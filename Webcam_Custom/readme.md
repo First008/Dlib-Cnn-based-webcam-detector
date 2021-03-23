@@ -5,7 +5,6 @@ The best way to compile a program that uses dlib is to use CMake.
 For example, the following commands will compile the example programs on any operating system:
 
 ```
-cd examples
 mkdir build
 cd build
 cmake ..
